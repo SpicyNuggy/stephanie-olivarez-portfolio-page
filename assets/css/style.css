@@ -4,7 +4,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-}
+}header
 
 h1, h2, h3, h4, h5, h6, span {
     color: #000;
@@ -12,7 +12,20 @@ h1, h2, h3, h4, h5, h6, span {
     line-height: 1.25;
 }
 
-p {
-   line-height: 1.5; 
-   font-size: 16px;
+main {
+flex-wrap: wrap;
 }
+
+section {
+    flex-direction: column;
+
+}
+
+img {
+
+}
+
+footer {
+
+}
+
